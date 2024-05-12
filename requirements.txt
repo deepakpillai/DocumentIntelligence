@@ -1,0 +1,6 @@
+chainlit
+langchain
+openai
+PyPDF2
+docx2txt
+openpyxl
